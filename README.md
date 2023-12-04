@@ -1,12 +1,12 @@
 ### Hi there 👋
 ## My name is Mahdi Sarrafzadeh - Front-End Developer
 
----
+
 
 ## About Me
 Experienced and autonomous Front-End Developer with over three years of dedicated experience in crafting and upholding responsive websites within the dynamic recruiting industry. Adept in a diverse range of technologies, including HTML/CSS, SASS, JavaScript, TypeScript, and React, along with proficiency in modern libraries and frameworks. Committed to enhancing website performance while delivering top-notch development.
 
----
+
 
 ### Skills
 - [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
