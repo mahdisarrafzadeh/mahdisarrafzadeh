@@ -8,7 +8,7 @@ Experienced and autonomous Front-End Developer with over three years of dedicate
 experience in crafting and upholding responsive websites within the dynamic recruiting
 industry.
 - 🌍 I'm based in Tehran
-- ✉️ You can contact me by [Email](mailto:mahdisarrafz9@gmail.com) or [Linkedin]([https://www.linkedin.com/in/mahdi-sarrafzadeh-4442b2204/](https://www.linkedin.com/in/mahdi-sarrafzadeh-4442b2204/))
+- ✉️ You can contact me by [Email](mailto:mahdisarrafz9@gmail.com)
 - ⚡ I love watching movies, and tv-series and playing video games.
 
 
